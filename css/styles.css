@@ -1,0 +1,36 @@
+        
+        body{
+            background-color: #D3CEDF;
+
+        }
+
+
+        hr{
+        
+            border-style: dotted none none;
+            border-color: grey;
+            border-width: 5px;
+            
+
+            height: 2px;
+            width: 15%;
+            
+            /*here we can specify width in px or in % ...if specified in % then it shows x% of width whether we 
+                increase or decrease the size of screen */
+
+            /* When one value is specified, it applies the same style to all four sides.
+            When two values are specified, the first style applies to the top and bottom, the second to the left and right.
+            When three values are specified, the first style applies to the top, the second to the left and right, the third to the bottom.
+            When four values are specified, the styles apply to the top, right, bottom, and left in that order (clockwise).
+            */
+            
+        }
+
+        h1{
+            color: #7F669D;
+        }
+
+        h3{
+            color: #7F669D;
+        }
+        
